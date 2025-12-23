@@ -21,14 +21,6 @@
 
 ---
 
-### 📌 Pinned Projects  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PritamDas&repo=project1&theme=tokyonight)](https://github.com/PritamDas/project1)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PritamDas&repo=project2&theme=tokyonight)](https://github.com/PritamDas/project2)  
-
-*(Replace project1 and project2 with your best repos)*
-
----
-
 ### 📊 GitHub Stats
 ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritamDas&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamDas&layout=compact&theme=tokyonight)  
